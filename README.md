@@ -377,38 +377,11 @@ The GitHub Actions pipeline automatically:
 
 ---
 
-## 📈 Evaluation Criteria Coverage
-
-| Criteria | Points | Status | Details |
-|----------|--------|--------|---------|
-| Problem description | 2 | ✅ | Clear problem and solution |
-| Retrieval flow | 2 | ✅ | Qdrant + OpenAI GPT-4o |
-| Retrieval evaluation | 2 | ✅ | Multiple strategies tested |
-| LLM evaluation | 2 | ✅ | Prompt engineering evaluated |
-| Interface | 2 | ✅ | Streamlit UI |
-| Ingestion pipeline | 2 | ✅ | Airflow automation |
-| Monitoring | 2 | ✅ | Grafana + user feedback |
-| Containerization | 2 | ✅ | Docker Compose |
-| Reproducibility | 2 | ✅ | Complete setup docs |
-| Hybrid search | 1 | ✅ | Text + vector search |
-| Re-ranking | 1 | ✅ | Implemented |
-| Query rewriting | 1 | ✅ | Implemented |
-| **AI Agents** | +3 | ✅ | LangGraph multi-agent |
-| **Total** | **23+** | ✅ | Exceeds requirements |
-
----
-
-
-
----
-
 ## 🙏 Acknowledgments
 
 - DataTalks.Club LLM Zoomcamp for the project guidelines
 - arXiv and Semantic Scholar for providing research paper APIs
 - The open-source community for amazing tools
-
-
 
 ---
 
