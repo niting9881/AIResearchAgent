@@ -398,15 +398,7 @@ The GitHub Actions pipeline automatically:
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -416,26 +408,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - arXiv and Semantic Scholar for providing research paper APIs
 - The open-source community for amazing tools
 
----
 
-## 📧 Contact
-
-For questions or feedback:
-- Open an issue on GitHub
-- Email: your.email@example.com
-
----
-
-## 🗺️ Roadmap
-
-- [x] Phase 1: Data ingestion pipeline
-- [x] Phase 2: RAG implementation
-- [x] Phase 3: AI agent development
-- [x] Phase 4: UI and monitoring
-- [x] Phase 5: Containerization
-- [ ] Phase 6: Cloud deployment (AWS/GCP)
-- [ ] Future: Multi-modal support (images, charts)
-- [ ] Future: Collaborative filtering recommendations
 
 ---
 
